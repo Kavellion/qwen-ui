@@ -21,6 +21,12 @@ end-to-end on miniature weights and real repo files, but it
 has not run on a real PC yet. The first-picture, small-queue,
 and batch proofs below are still owed.
 
+## Examples
+
+![Frame 000001 — the Aztec priestess (Qwen-Image, GGUF Q5_K_M, seed 1676890085). The model's first PC-proven frame.](examples/qwen-priestess.png)
+
+Frame 000001 — the Aztec priestess (Qwen-Image, GGUF Q5_K_M, seed 1676890085). The model's first PC-proven frame.
+
 ## What's in the package
 
 - `install.bat` — one-click installer (see below).
